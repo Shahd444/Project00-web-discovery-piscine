@@ -3,21 +3,20 @@ total 0
 drwxr-xr-x 3 shshawis _amman 53 Sep 30 14:25 .
 drwxr-xr-x 7 shshawis _amman 66 Oct  1 10:39 ..
 drwxr-xr-x 5 shshawis _amman 51 Sep 30 14:22 dev_workspace
--rw-r--r-- 1 shshawis _amman  0 Oct  1 10:47 tree_structure.txt
+-rw-r--r-- 1 shshawis _amman  0 Oct  1 12:56 tree_structure.txt
 
 ./dev_workspace:
 total 0
 drwxr-xr-x 5 shshawis _amman 51 Sep 30 14:22 .
 drwxr-xr-x 3 shshawis _amman 53 Sep 30 14:25 ..
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 archives
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 archives
 drwxr-xr-x 3 shshawis _amman 17 Sep 30 14:23 projects
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 tools
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 tools
 
 ./dev_workspace/archives:
 total 0
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 .
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 .
 drwxr-xr-x 5 shshawis _amman 51 Sep 30 14:22 ..
--rw-r--r-- 1 shshawis _amman  0 Oct  1 10:44 .gitkeep
 
 ./dev_workspace/projects:
 total 0
@@ -29,23 +28,20 @@ drwxr-xr-x 4 shshawis _amman 37 Sep 30 14:23 web
 total 0
 drwxr-xr-x 4 shshawis _amman 37 Sep 30 14:23 .
 drwxr-xr-x 3 shshawis _amman 17 Sep 30 14:23 ..
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 backend
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 frontend
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 backend
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 frontend
 
 ./dev_workspace/projects/web/backend:
 total 0
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 .
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 .
 drwxr-xr-x 4 shshawis _amman 37 Sep 30 14:23 ..
--rw-r--r-- 1 shshawis _amman  0 Oct  1 10:44 .gitkeep
 
 ./dev_workspace/projects/web/frontend:
 total 0
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 .
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 .
 drwxr-xr-x 4 shshawis _amman 37 Sep 30 14:23 ..
--rw-r--r-- 1 shshawis _amman  0 Oct  1 10:44 .gitkeep
 
 ./dev_workspace/tools:
 total 0
-drwxr-xr-x 2 shshawis _amman 22 Oct  1 10:44 .
+drwxr-xr-x 2 shshawis _amman  6 Oct  1 12:55 .
 drwxr-xr-x 5 shshawis _amman 51 Sep 30 14:22 ..
--rw-r--r-- 1 shshawis _amman  0 Oct  1 10:44 .gitkeep
