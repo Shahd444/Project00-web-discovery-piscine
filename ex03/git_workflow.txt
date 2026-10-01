@@ -1,0 +1,14 @@
+Edit:
+I created and edited the README.md file then git_workflow.txt file then generated the ssh keys and put the public key in id_ed25519_pub.txt file
+
+Add:
+I added the files to git using
+git add .
+
+Commit:
+I committed the changes
+git commit -m "create a README.md, git_workflow.txt and id_ed25519_pub.txt files"
+
+Push:
+I pushed the commit to the repo
+git push
